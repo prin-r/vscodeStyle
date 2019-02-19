@@ -38,14 +38,14 @@
   font-weight: medium;
   font-size: 1.075em;
   line-height: normal;
-  color: #00e6ac !important;
+  color: #39cadd !important;
 }
 
 .mtk8 {
   font-family: "Operator Mono lig";
   font-size: 1.075em;
   line-height: normal;
-  color: #a4ff90 !important;
+  color: #dabc9a !important;
 }
 
 .mtk10 {
@@ -58,11 +58,11 @@
 }
 
 .mtk11 {
-  font-family: "Operator Ssm";
+  font-family: "Operator Mono lig";
   font-style: italic;
   font-size: 1.075em;
   line-height: normal;
-  color: #ff628c !important;
+  color: #dd6b74 !important;
 }
 
 .mtk12 {
@@ -70,11 +70,11 @@
   font-weight: lighter;
   font-size: 1.075em;
   line-height: normal;
-  color: #40a6ff !important;
+  color: #e06021 !important;
 }
 
 .mtk15 {
-  font-family: "Operator Ssm";
+  font-family: "Operator Mono lig";
   font-size: 1.075em;
   line-height: normal;
   font-weight: bolder;
