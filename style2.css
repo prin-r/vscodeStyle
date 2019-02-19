@@ -1,0 +1,115 @@
+/*
+ I decided on the Brush Script MT cursive font for now. Works better for me than Operator Mono.
+*/
+.mtk1 {
+  font-family: "Operator Mono lig";
+  font-size: 1.075em;
+  line-height: normal;
+  color: #ebdcb2 !important;
+}
+
+.mtk3 {
+  font-family: "Fira Code";
+  font-size: 1.075em;
+  line-height: normal;
+  color: #5a5c55;
+}
+
+.mtk4 {
+  font-family: "Operator Mono lig";
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #ffcf10 !important;
+}
+
+.mtk5 {
+  font-family: "Operator Mono lig";
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #bd66ff !important;
+}
+
+.mtk7 {
+  font-family: "Operator Ssm";
+  font-weight: medium;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #1edfa5 !important;
+}
+
+.mtk8 {
+  font-family: "Operator Mono lig";
+  font-size: 1.075em;
+  line-height: normal;
+  color: #c9a66b !important;
+}
+
+.mtk10 {
+  font-family: "Operator Mono lig";
+  font-size: 1.075em;
+  line-height: normal;
+  font-weight: bold;
+  font-style: italic;
+  color: #df6f14 !important;
+}
+
+.mtk11 {
+  font-family: "Operator Mono lig";
+  font-style: italic;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #a6ce57 !important;
+}
+
+.mtk12 {
+  font-family: "Operator Mono lig";
+  font-weight: lighter;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #d3573e !important;
+}
+
+.mtk15 {
+  font-family: "Operator Mono lig";
+  font-size: 1.075em;
+  line-height: normal;
+  font-weight: bolder;
+  font-style: italic;
+  color: #598caa !important;
+}
+
+.mtk16 {
+  font-family: "Operator Mono lig";
+  font-weight: bolder;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #ffffff !important;
+}
+
+.mtk17 {
+  font-family: "Operator Mono lig";
+  font-weight: bolder;
+  font-size: 1.075em;
+  line-height: normal;
+  color: #ffffff !important;
+}
+
+.monaco-icon-label-description-container .label-name {
+  font-family: "Operator Mono lig";
+}
+
+.tabs-container .monaco-icon-label-description-container .label-name,
+.sidebar .monaco-icon-label-description-container .label-name,
+.quick-open-row .monaco-icon-label-description-container .label-name {
+  font-family: "Operator Mono lig", "Fira Code", -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/*
+  For the tab titles.
+*/
